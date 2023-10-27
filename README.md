@@ -41,7 +41,7 @@
 
 <div>
 	<div style="display: flex"><br>
-	    <img align="left" height="250" alt="coding-time" src="code.gif">
+	    <img align="left" height="200" alt="coding-time" src="code.gif">
 	    <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgBedon&layout=compact&langs_count=16&theme=great-gatsby"/>
 	</div>
 </div>
