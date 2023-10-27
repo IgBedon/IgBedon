@@ -38,12 +38,15 @@
     <p>⚡ Fun fact: I discovered the world of programming when I did volunteer work at a Manga Scan.</p>
     <br>
 </div>
+
 <div>
-    <div>
-        <img align="left" height="250" alt="coding-time" src="code.gif">
-    </div>
-    <div>
-        <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgBedon&layout=compact&langs_count=16&theme=great-gatsby"/>
-    </div>
+	<div style="display: flex"><br>
+	    <img align="left" height="250" alt="coding-time" src="code.gif">
+	    <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgBedon&layout=compact&langs_count=16&theme=great-gatsby"/>
+	</div>
 </div>
 
+<img
+	width="100%"
+	src="https://capsule-render.vercel.app/api?type=waving&color=7D232F&height=100&section=footer"
+/>
